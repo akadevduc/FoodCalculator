@@ -1,6 +1,0 @@
-@SistemaGestion.API_HostAddress = http://localhost:5122
-
-GET {{SistemaGestion.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
